@@ -1,0 +1,4 @@
+Training data:
+https://storage.googleapis.com/tf-datasets/titanic/train.csv
+Testing data:
+https://storage.googleapis.com/tf-datasets/titanic/eval.csv
